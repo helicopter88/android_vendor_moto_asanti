@@ -1,4 +1,4 @@
-VENDOR_BLOB_FOLDER := vendor/motorola/msm8960-common/proprietary/42_adreno
+VENDOR_BLOB_FOLDER := vendor/moto/asanti/proprietary/42_adreno
 
 # 4.2 adreno blobs
 PRODUCT_COPY_FILES += \
